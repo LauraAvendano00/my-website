@@ -1,4 +1,2 @@
 # My Website
-parte 1
-
-Edición rama ejemplo
+PRUEBA REBASE
